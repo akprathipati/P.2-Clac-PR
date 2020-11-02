@@ -20,3 +20,4 @@ def deriv():
         print("The derivative is:",coef*ex,"/(x^",abs(ex-1),")")
 deriv()
 #ak is cool cool
+#print(ak); 
